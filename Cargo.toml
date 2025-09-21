@@ -169,7 +169,7 @@ env_logger = { version = "0.11.2", default-features = false, features = [
     "auto-color",
 ] }
 futures-util = { version = "0.3", default-features = false }
-getopts = "0.2"
+getopts = "0.2.23"
 log = "0.4"
 sha1 = "0.10"
 sysinfo = { version = "0.36", default-features = false, features = ["system"] }
